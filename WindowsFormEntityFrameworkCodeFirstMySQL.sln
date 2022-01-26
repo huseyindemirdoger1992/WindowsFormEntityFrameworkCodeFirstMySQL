@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1778
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormEntityFrameworkCodeFirstMySQL", "WindowsFormEntityFrameworkCodeFirstMySQL\WindowsFormEntityFrameworkCodeFirstMySQL.csproj", "{2FD3E13A-481D-4467-8A23-353F3E04645B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD3E13A-481D-4467-8A23-353F3E04645B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD3E13A-481D-4467-8A23-353F3E04645B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD3E13A-481D-4467-8A23-353F3E04645B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD3E13A-481D-4467-8A23-353F3E04645B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB815F8-95B2-4A1E-9B4E-05CC8EB7CA55}
+	EndGlobalSection
+EndGlobal
